@@ -1,0 +1,44 @@
+[
+  {
+    "id": "example1",
+    "name": "First example",
+    "description": "Even-odd partition",
+    "gist": {
+      "url": "https://gist.github.com/hbakhtiyor/0e3bbe04be63b00f891b",
+      "raw_url": "https://gist.github.com/hbakhtiyor/0e3bbe04be63b00f891b/raw/3d06bf63966ede5f1873b061eac50639f915b992/question_1.js"
+    }
+  },
+  {
+    "id": "example2",
+    "name": "Second example",
+    "description": "Simple queuing system in pure javascript",
+    "gist": {
+      "url": "https://gist.github.com/hbakhtiyor/fd31d0ec07b34602ce15",
+      "raw_url": "https://gist.github.com/hbakhtiyor/fd31d0ec07b34602ce15/raw/28e504e281e9ffe3409cd71a98a6e251f8cf71f3/question_2.js"
+    }
+  },
+  {    
+    "id": "example3",
+    "name": "Third example",
+    "description": "Emulating MapReduce pattern",
+    "assets": [{
+      "gist": {
+        "url": "https://gist.github.com/hbakhtiyor/bda9d978e2a55b27cbee",
+        "raw_url": "https://gist.github.com/hbakhtiyor/bda9d978e2a55b27cbee/raw/82144b34670ac3bbbd58153396ba4d1334403077/input.txt"
+      }
+    }],
+    "gist": {
+      "url": "https://gist.github.com/hbakhtiyor/9236581b625cd8a0abf1",
+      "raw_url": "https://gist.github.com/hbakhtiyor/9236581b625cd8a0abf1/raw/8c6ffaa96a9288d56c6f9133c632a94e7d921e61/question_3.js"
+    }
+  },
+  {
+    "id": "example4",
+    "name": "Fourth example",
+    "description": "Compute to 100: Given the digits 123456789",
+    "gist": {
+      "url": "https://gist.github.com/hbakhtiyor/bd66755c10b32fa72ce1",
+      "raw_url": "https://gist.github.com/hbakhtiyor/bd66755c10b32fa72ce1/raw/c85aef0dccff8d793569e3ec203223d07eccb932/question_4.js"
+    }
+  }           
+]
